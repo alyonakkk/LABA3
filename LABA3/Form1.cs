@@ -7,7 +7,7 @@ namespace LABA3
 {
     public partial class Form1 : Form
     {
-		private readonly string path = @"C:\Users\Honor\Desktop\prog\LABA3\LABA3\bin\Debug\Lab3.1.xlsm";
+		private readonly string path = @"C:\Users\Honor\Desktop\prog\LABA3\LABA3\Lab3.1.xlsm";
 
 		private Excel.Application excel1;
 		private Excel.Workbook workBook1;
