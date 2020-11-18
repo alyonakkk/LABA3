@@ -29,7 +29,7 @@ namespace LABA3
 			}
 			catch (Exception er)
 			{
-				MessageBox.Show(er.Message);
+				MessageBox.Show("Error", er.Message);
 				Close();
 			}
 		}
